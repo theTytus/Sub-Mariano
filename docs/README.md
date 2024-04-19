@@ -8,7 +8,7 @@ Main game idea:
 	2D Pixel art
 	Side view
 	Underwater
-	Mariana Trench
+	Mariana trench
 	Submarine
 	Multiplayer
 	Oxygen and pressure
